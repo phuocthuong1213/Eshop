@@ -90,7 +90,7 @@
                     <tr class="cart_menu">
                         <td class="image">Hình ảnh</td>
                         <td class="description">Tên sản phẩm</td>
-                        <td class="price">Gía</td>
+                        <td class="price">Giá</td>
                         <td class="quantity">Số lượng</td>
                         <td class="total">Thành tiền</td>
                         <td></td>
